@@ -48,7 +48,7 @@ Return to GitHub in the browser and **reload the page** to see your uploaded fil
 ### Updating your project and live website 
 After setting up the intial repository the committing and upload process becomes easier. You'll want to add, commit and push your changes every time you make major adjustments to the design/function of your project. Simply: 
 - `git add *` to add the files 
-- `git commit -m "ANY RANDOM MESSAGE` to save the files and write a quick description of the changes you made 
+- `git commit -m "ANY RANDOM MESSAGE"` to save the files and write a quick description of the changes you made 
 - `git push` to upload the altered files from your computer to GitHub 
 
 Your GitHub page (the live website) will update automatically after the files are pushed to the online repository. 
