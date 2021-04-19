@@ -8,14 +8,14 @@ In this demo you will:
 - Practice editing the project, committing and pushing the changes
 
 ### Required Software 
-- Follow [the tutorial](https://www.atlassian.com/git/tutorials/install-git#windows) to install Git on your computer 
+- Follow [this tutorial](https://www.atlassian.com/git/tutorials/install-git#windows) to install Git on your computer (one time setup) 
 - Create an account on [GitHub](https://github.com/)
 - Make sure your project files (HTML, CSS, image files etc.) are contained in the **same** folder on your computer 
 
 Follow along with our [video recording]() (Kai still needs to edit) 
 
 ### Step 1
-In GitHub, create a New repository (green button on left side of homepage) 
+In GitHub, create a New repository
 - Give the repository any name 
 - Make it public 
 - DO NOT initalize the repository with a README, gitignore or license 
@@ -34,7 +34,7 @@ Copy and paste the commands from GitHub to the newly opened Terminal. A brief ex
 - `git add *` - Adds all the files in the project folder to Git. The asterisk tells Git to add **all** the files. You cannot also add files one by one with `git add NAMEOFFILE`
 - `git commit -m "ANY_RANDOM_MESSAGE"` - "Saves" the current version of your project. You can input a message between the quotation marks to describe what changes you made to your project. 
 - `git branch -M main` - Moves git into the a branch called "main." Don't worry too much about branches at this point. 
-- `git remote add origin URL_OF_YOUR_REPOSITORY`- Tells Git where to upload the files to. Your URL will be different so make sure to **copy and paste** this line into the Terminal. 
+- `git remote add origin URL_OF_YOUR_REPOSITORY`- Tells Git where to upload the files to. Your URL will be different so make sure to copy and paste from **your GitHub repository** into the Terminal. 
 - `git push -u origin main` - Uploads the files from your computer to GitHub! 
 
 ### Step 5
