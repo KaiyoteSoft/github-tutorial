@@ -20,15 +20,12 @@ In GitHub, create a New repository
 - Make it public 
 - DO NOT initalize the repository with a README, gitignore or license 
 
-### Step 2 
-Open up Terminal (Mac Users) or Command Prompt (Windows User) 
-
-### Step 3 
+### Step 2
 Find the folder that contains your project files using the File Explorer
 - Right click the folder
 - Select "New Terminal at Folder" 
 
-### Step 4 
+### Step 3 
 Copy and paste the commands from GitHub to the newly opened Terminal. A brief explanation of what each command does is included below: 
 - `git init` - Initializes a Git repository on your local computer 
 - `git add *` - Adds all the files in the project folder to Git. The asterisk tells Git to add **all** the files. You cannot also add files one by one with `git add NAMEOFFILE`
@@ -37,7 +34,7 @@ Copy and paste the commands from GitHub to the newly opened Terminal. A brief ex
 - `git remote add origin URL_OF_YOUR_REPOSITORY`- Tells Git where to upload the files to. Your URL will be different so make sure to copy and paste from **your GitHub repository** into the Terminal. 
 - `git push -u origin main` - Uploads the files from your computer to GitHub! 
 
-### Step 5
+### Step 4
 Return to GitHub in the browser and **reload the page** to see your uploaded files. 
 - Then, click "Settings" 
 - Select "Pages" from the menu on the left side of the screen 
