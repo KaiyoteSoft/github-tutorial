@@ -1,3 +1,5 @@
+Hello this is the README!
+
 # GitHub Tutorial (WRIT 155B) 
 
 In this demo you will: 
@@ -12,7 +14,7 @@ In this demo you will:
 - Create an account on [GitHub](https://github.com/)
 - Make sure your project files (HTML, CSS, image files etc.) are contained in the **same** folder on your computer 
 
-Follow along with our [video recording]() (Kai still needs to edit) 
+Follow along with our [video recording](https://www.youtube.com/watch?v=tOLLpde3LGI) 
 
 ### Step 1
 In GitHub, create a New repository
